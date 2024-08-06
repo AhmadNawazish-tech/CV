@@ -1,0 +1,40 @@
+/********* Tag  Selectors**************/
+body{
+    background-color: green;
+    background-image: url("E:\Web Development\Html-Personal site\IMG_E0023-modified.png");
+    color: none;
+}
+h1{
+    color: #66BFBF;
+    text-align: center;
+}
+h3{
+    color: #66BFBF;
+    text-align: center;
+}
+hr{ 
+    
+    border-style:dotted ;
+    border-top-style: dotted;
+    border-width: thick;
+    width: 10%;
+    
+}
+
+img{
+    height: 200px;
+    width: 10;
+    border-radius: 2000;
+}
+
+/********* ID Selectors**************/
+
+#profile-picture{
+    border-radius: 10%; 
+    background-color: rgb(220, 255, 239);
+
+}
+
+
+
+/********* class Selectors**************/
