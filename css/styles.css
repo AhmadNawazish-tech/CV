@@ -1,0 +1,172 @@
+body{
+
+   font-size: 2em;
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+ 
+   
+}
+h1{
+    margin-bottom: 0;
+   font-family: 'Dancing Script';
+   color: #66BFBF;
+   line-height: 2;
+   font-size: 4em;
+   
+}
+h2{ 
+   
+    font-size:2em ;
+    font-family:'montseratt';
+    color: #66BFBF;
+    padding: 10px 0;
+
+}
+h3{ 
+   
+    
+    font-family:'montseratt';
+    color: #11999E;
+
+}
+p{
+    margin-top: 0;
+    font-family: 'montseratt';
+    font-weight: normal;
+    font-size: 2rem;
+    color: #40514E;
+}
+hr{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    width: 4%;
+    color: #EAF6F6;
+    border-top: dotted;
+    border-left: 0;
+    border-bottom: 0;
+    border-right: 0;
+    border-width: 10px;
+}
+
+.top-container{
+    background-color:#EAF6F6;
+    position: relative;
+    padding-top: 300px;
+
+    
+    
+    
+
+}
+.middle-container{
+margin: 100px 0;
+    
+}
+.bottom-container{
+    background-color:#66BFBF;
+    padding: 100px 0;
+ 
+}
+.bottom-cloud{
+    position: absolute;
+    width: 200px;
+    height: 100px;
+   bottom: 700px;
+   left: 400px;
+}
+.top-cloud{
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    right: 500px;
+    top: 100px;
+
+}
+.profile-pic{
+    width: 15%;
+}
+.mountain{
+    
+    background-color: blue;
+    width: 1000px;
+    height: 600px;
+    margin-bottom: 0%;
+    border-bottom: 0;
+
+}
+.skill{
+width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
+}
+.coding-image{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    margin-top: 30px;
+
+}
+.squash-image{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.contact-message{
+    width: 40%;
+    margin: 100px auto ;
+    line-height: 2;
+}
+a{
+    color: #11999E;
+    font-family: 'montseratt';
+    margin: 30px 40px;
+    text-decoration: none;
+}
+a:hover{
+    color: #ffffff;
+}
+.copy-right{
+    margin: 30px auto;
+    color: #EAF6F6;
+
+}
+
+
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'montseratt';
+    color: #ffffff;
+    font-size: 30px;
+    padding: 20px 30px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
+/* .cod-para{
+    clear: left;    this is just the reverse of float concept .
+
+}
+.sq-para{
+  clear: right;
+} */
